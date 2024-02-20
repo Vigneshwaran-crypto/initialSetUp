@@ -1,0 +1,10 @@
+# ninja log v5
+23	113	1706695476600404778	build.ninja	ed8f75c662438053
+0	12	0	/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/.cxx/Debug/62o2a5ra/arm64-v8a/CMakeFiles/cmake.verify_globs	3e759cec72f62176
+2601	2802	1706694778051977553	/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/build/intermediates/cxx/Debug/62o2a5ra/obj/arm64-v8a/libappmodules.so	539b3b7978d080fd
+3	2149	1706694777405689658	CMakeFiles/appmodules.dir/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	9889e1134799f982
+3	2601	1706694777851909933	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d85ae1375e3570cd
+1	12	0	/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/.cxx/Debug/62o2a5ra/arm64-v8a/CMakeFiles/cmake.verify_globs	3e759cec72f62176
+3	2181	1706695478834560554	CMakeFiles/appmodules.dir/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	9889e1134799f982
+3	2614	1706695479261734121	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d85ae1375e3570cd
+2614	2702	1706695479348527489	/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/build/intermediates/cxx/Debug/62o2a5ra/obj/arm64-v8a/libappmodules.so	539b3b7978d080fd

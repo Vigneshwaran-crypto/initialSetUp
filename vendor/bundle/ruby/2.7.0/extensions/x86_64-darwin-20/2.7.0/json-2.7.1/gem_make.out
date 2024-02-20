@@ -1,0 +1,16 @@
+current directory: /Users/admin/Desktop/Vignesh/personal/hotomo/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+/usr/local/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/admin/Desktop/Vignesh/personal/hotomo/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240131-15369-1q70356 sitelibdir\=./.gem.20240131-15369-1q70356 clean
+
+current directory: /Users/admin/Desktop/Vignesh/personal/hotomo/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240131-15369-1q70356 sitelibdir\=./.gem.20240131-15369-1q70356
+make: Nothing to be done for `all'.
+
+current directory: /Users/admin/Desktop/Vignesh/personal/hotomo/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240131-15369-1q70356 sitelibdir\=./.gem.20240131-15369-1q70356 install
+
+current directory: /Users/admin/Desktop/Vignesh/personal/hotomo/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240131-15369-1q70356 sitelibdir\=./.gem.20240131-15369-1q70356 clean

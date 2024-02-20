@@ -1,0 +1,7 @@
+/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/admin/Desktop/Vignesh/professional/MegatronFullStack/hotomo/android/app/.cxx/Debug/4a5d17p5/x86_64 \
+  appmodules \
+  react_codegen_RNVectorIconsSpec \
+  react_codegen_rnscreens \
+  react_codegen_safeareacontext

@@ -1,0 +1,3 @@
+/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/.cxx/Debug/62o2a5ra/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/.cxx/Debug/62o2a5ra/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/Vignesh/personal/hotomo/android/app/.cxx/Debug/62o2a5ra/armeabi-v7a/CMakeFiles/rebuild_cache.dir
